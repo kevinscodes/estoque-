@@ -1,75 +1,58 @@
-# Estoque+
+{"variant":"standard","title":"README.md profissional para Estoque+","id":"91428"}
+# Estoque+  
 
-![Logo do Projeto](estoque-plus/images/logo.png)
+![Logo do Projeto](estoque-plus/images/logo.png)  
 
-Sistema simples de gerenciamento de estoque feito com Python e SQLite. Permite adicionar e remover produtos e é ideal para quem quer aprender ou criar uma versão básica de controle de inventário.
+Sistema simples de gerenciamento de estoque feito com **Python** e **SQLite**. Permite adicionar, remover e listar produtos de forma rápida e prática. Ideal para aprendizado ou para quem quer uma solução básica de controle de inventário.
 
 ---
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
 - Adicionar produtos
 - Remover produtos
 - Listar produtos
-- Armazenamento simples usando SQLite
+- Banco de dados simples usando SQLite
 
 ---
 
-## Preview / Demo
+## 🖼️ Preview / Demo
 
-![Preview](estoque-plus/images/one.png)
-![Preview](estoque-plus/images/two.png)
-![Preview](estoque-plus/images/three.png)
-
-## Tecnologias
-
-- Python
-- SQLite
-- Git/GitHub
+![Tela Inicial](estoque-plus/images/one.png)  
+![Adicionar Produto](estoque-plus/images/two.png)  
+![Remover Produto](estoque-plus/images/three.png)  
 
 ---
 
-## Como usar
+## 🛠 Tecnologias
+
+- Python  
+- SQLite  
+- Git/GitHub  
+
+---
+
+## ⚡ Como usar
 
 1. Clone o repositório:  
 ```bash
 git clone https://github.com/kevinscodes/estoque+.git
 ```
 2. Abra o projeto com seu editor de preferência.
-3. Execute o arquivo principal ("app.py") para começar a usar.
+3. Execute o arquivo principal:  
+```bash
+python app.py
+```
 
 ---
 
-## Preview
+## 🤝 Contribuição
 
-
-![Tela Inicial](images/tela_inicial.png)
-![Adicionar Produto](images/adicionar_produto.png)
-
-## Contribuição
-
-Sinta-se à vontade para abrir issues ou pull requests para melhorias!
+Contribuições são bem-vindas! Abra issues ou pull requests para sugerir melhorias ou novos recursos.
 
 ---
 
-## Licença
+## 📄 Licença
 
- Copyright (c) <year> <copyright holders>
-
- Permission is hereby granted, free of charge, to any person obtaining a copy
- of this software and associated documentation files (the "Software"), to deal
- in the Software without restriction, including without limitation the rights
- to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
- copies of the Software, and to permit persons to whom the Software is
- furnished to do so, subject to the following conditions:
-
- The above copyright notice and this permission notice shall be included in
- all copies or substantial portions of the Software.
-
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
- AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
- OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
- THE SOFTWARE.
+MIT License  
+Veja o arquivo `LICENSE` para mais detalhes.
