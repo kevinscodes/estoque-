@@ -1,7 +1,7 @@
 {"variant":"standard","title":"README.md para projeto Estoque+","id":"91427"}
 # Estoque+
 
-![Logo do Projeto](caminho/para/seu-logo.png)
+![Logo do Projeto](/images/estoque+ logo.png)
 
 Sistema simples de gerenciamento de estoque feito com Python e SQLite. Permite adicionar e remover produtos e é ideal para quem quer aprender ou criar uma versão básica de controle de inventário.
 
