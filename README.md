@@ -22,9 +22,8 @@ Sistema simples de gerenciamento de estoque feito com **Python** e **SQLite**. P
 ## 🖼️ Preview / Demo - Desktop
 
 <p align="center">
-  <img src="estoque-plus/images/one.png" alt="Tela Inicial" width="300"/>
-  <img src="estoque-plus/images/two.png" alt="Adicionar Produto" width="300"/>
-  <img src="estoque-plus/images/three.png" alt="Remover Produto" width="300"/>
+  <img src="estoque-plus/images/one.png" alt="Tela Inicial" width="300" height="300"/>
+  <img src="estoque-plus/images/two.png" alt="Adicionar Produto" width="300" height="300"/>
 </p>
 
 ## Mobile
