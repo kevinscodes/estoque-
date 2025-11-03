@@ -4,7 +4,9 @@
   <img src="estoque-plus/images/logo.png" alt="Logo do Projeto" width="200"/>
 </p>
 
-Sistema simples de gerenciamento de estoque feito com **Python** e **SQLite**. Permite adicionar, remover e listar produtos de forma rápida e prática. Ideal para aprendizado ou para quem quer uma solução básica de controle de inventário.
+Sistema simples de gerenciamento de estoque feito com **Python** e **SQLite**.  
+Permite adicionar, remover e listar produtos de forma rápida e prática.  
+Ideal para aprendizado ou para quem quer uma solução básica de controle de inventário.
 
 ---
 
@@ -22,16 +24,18 @@ Sistema simples de gerenciamento de estoque feito com **Python** e **SQLite**. P
 ## 🖼️ Preview / Demo - Desktop
 
 <p align="center">
-  <img src="estoque-plus/images/one.png" alt="Tela Inicial" width="300" height="300"/>
-  <img src="estoque-plus/images/two.png" alt="Adicionar Produto" width="300" height="300"/>
+  <img src="estoque-plus/images/one.png" alt="Tela Inicial" width="300"/>
+  <img src="estoque-plus/images/two.png" alt="Adicionar Produto" width="300"/>
 </p>
 
-## Mobile
+---
+
+## 📱 Preview / Demo - Mobile
 
 <p align="center">
-  <img src="estoque-plus/images/mone.png" alt="Tela Inicial" width="300"/>
-  <img src="estoque-plus/images/mtwo.png" alt="Adicionar Produto" width="300"/>
-  <img src="estoque-plus/images/mthree.png" alt="Remover Produto" width="300"/>
+  <img src="estoque-plus/images/mone.png" alt="Tela Inicial" width="220"/>
+  <img src="estoque-plus/images/mtwo.png" alt="Adicionar Produto" width="220"/>
+  <img src="estoque-plus/images/mthree.png" alt="Remover Produto" width="220"/>
 </p>
 
 ---
@@ -39,33 +43,15 @@ Sistema simples de gerenciamento de estoque feito com **Python** e **SQLite**. P
 ## 🛠 Tecnologias
 
 <p align="center">
-  <code>Python</code> &nbsp;&nbsp; | &nbsp;&nbsp; <code>SQLite</code> &nbsp;&nbsp; | &nbsp;&nbsp; <code>Git/GitHub</code>
+  <code>Python</code> &nbsp;&nbsp; | &nbsp;&nbsp;
+  <code>SQLite</code> &nbsp;&nbsp; | &nbsp;&nbsp;
+  <code>Git/GitHub</code>
 </p>
 
 ---
 
 ## ⚡ Como usar
 
-<p align="center">
 1. Clone o repositório:  
-<pre><code>git clone https://github.com/kevinscodes/estoque-plus.git</code></pre>
-2. Abra o projeto com seu editor de preferência.
-3. Execute o arquivo principal:  
-<pre><code>python app.py</code></pre>
-</p>
-
----
-
-## 🤝 Contribuição
-
-<p align="center">
-Sinta-se à vontade para abrir issues ou pull requests para melhorias!
-</p>
-
----
-
-## 📄 Licença
-
-<p align="center">
-MIT License — veja o arquivo <code>LICENSE</code> para mais detalhes.
-</p>
+   ```bash
+   git clone https://github.com/kevinscodes/estoque-plus.git
