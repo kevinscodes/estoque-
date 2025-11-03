@@ -24,7 +24,7 @@ Ideal para aprendizado ou para quem quer uma solução básica de controle de in
 ## 🖼️ Preview / Demo - Desktop
 
 <p align="center">
-  <img src="estoque-plus/images/one.png" alt="Tela Inicial" width="300"/>
+  <img src="estoque-plus/images/one.png" alt="Tela Inicial" width="300" height="500"/>
   <img src="estoque-plus/images/two.png" alt="Adicionar Produto" width="300"/>
 </p>
 
