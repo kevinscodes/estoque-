@@ -60,7 +60,7 @@ Ideal para aprendizado ou para quem quer uma solução básica de controle de in
 
 3. Execute o arquivo "server.py" no editor de código
 
-   Exemplo usando Prompt de comando do Windows:
+     Exemplo usando Prompt de comando do Windows:
     ```bash
    python app.py
    
