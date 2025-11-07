@@ -1,7 +1,7 @@
 # Estoque+  
 
 <p align="center">
-  <img src="estoque-plus/src/logo.png" alt="Logo do Projeto" width="200"/>
+  <img src="estoque-plus/images/logo.png" alt="Logo do Projeto" width="200"/>
 </p>
 
 Sistema simples de gerenciamento de estoque feito com **Python** e **SQLite**.  
